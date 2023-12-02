@@ -1,4 +1,5 @@
 Aluno: Lucas Araujo Ferreira
+Link do vídeo:  https://youtu.be/dvFaBkfElO0
 
 Detalhamento do Código: Controle de Estoque de uma Loja de Roupas
 
